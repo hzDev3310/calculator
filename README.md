@@ -1,5 +1,6 @@
 # calculator
 https://github.com/user-attachments/assets/0c1457c1-88ab-4b07-9659-5fff27e28df7
+
 Welcome to the Muie project! This guide will help you clone and run the project using Microsoft Visual Studio.
 
 ## Prerequisites
